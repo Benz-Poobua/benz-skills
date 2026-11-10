@@ -1,0 +1,10 @@
+{
+  "name": "benz",
+  "version": "0.1.2",
+  "description": "Research skills for DAS interferometry / FWI code and LaTeX papers: evidence discipline, ledgers, subagent model tiers, resumable offline runs, house style (das_ani), numerical gates, correct-then-fast, debugging, review, generated notebooks, licence-aware extraction, SLURM; paper reading, BibTeX, writing, number tracing, figures, method adoption.",
+  "author": {
+    "name": "Benz Poobua",
+    "email": "spoobua@stanford.edu"
+  },
+  "license": "MIT"
+}
