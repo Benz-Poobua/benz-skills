@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "benz-skills",
+  "description": "Benz Poobua's research skills: evidence-first engineering (numerical gates, correct-then-fast, resumable long runs) and honest paper work (line-by-line reading, BibTeX hygiene, traced numbers, book-first writing).",
+  "owner": {
+    "name": "Benz Poobua",
+    "email": "spoobua@stanford.edu"
+  },
+  "plugins": [
+    {
+      "name": "benz",
+      "description": "Core, code and paper skills plus model-tiered subagents (surveyor=haiku, reader/builder=sonnet, verifier=opus) for the Imaging_Project ecosystem.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
